@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.10.4",
-  "publishedAt": "2026-10-21T17:16:42Z",
+  "contentVersion": "2026.10.5",
+  "publishedAt": "2026-10-21T18:20:13Z",
   "files": [
     {
       "name": "manifest.json",
-      "sha256": "7fa1b1a1ed06b99588e0f31e9851406a3b7703a95fbd125fa2fd8b9c4a047f16",
+      "sha256": "b13f85edc07d2d659ab5f4ac9b312b984d7f6d8f9c6c4e12ce719325ca802d2f",
       "bytes": 1626
     },
     {
       "name": "phases.json",
-      "sha256": "f0655ba267848a2ee9c050d8dda4014bbbadb1dfcd46ca83c640b2d0377dc9aa",
-      "bytes": 1115
+      "sha256": "2ea3c7308c9f2d878fcbdce2f2650830893d8a9853b7d42bbde4c30000909e48",
+      "bytes": 1129
     },
     {
       "name": "steps.json",
-      "sha256": "6c27b0c3393bde53faaa60177faab31df88d6945106fd7c127cdb4e90b8f30a1",
-      "bytes": 495515
+      "sha256": "fca45d666004fab4c9731618a5097985aeacbe234d4865ad956f1cb7248e64cd",
+      "bytes": 511318
     },
     {
       "name": "glossary.json",
@@ -30,8 +30,8 @@
     },
     {
       "name": "offices.json",
-      "sha256": "4d1f3928d5735c8244637c3f3ef752611e4466b46329c995936d2334b80d5d3b",
-      "bytes": 18446
+      "sha256": "d8764060b3d2833aa0e3e316f028b1fe88d3e316322b40ebf1a3f6ed29b94b9c",
+      "bytes": 19823
     },
     {
       "name": "photos.json",
