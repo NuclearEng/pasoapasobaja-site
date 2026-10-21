@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.10.3",
-  "publishedAt": "2026-10-21T15:31:25Z",
+  "contentVersion": "2026.10.4",
+  "publishedAt": "2026-10-21T17:16:42Z",
   "files": [
     {
       "name": "manifest.json",
-      "sha256": "5221d22fd1e5032d6a728c75bb6407f4bb65d61145aa9d601fac3833c1598451",
+      "sha256": "7fa1b1a1ed06b99588e0f31e9851406a3b7703a95fbd125fa2fd8b9c4a047f16",
       "bytes": 1626
     },
     {
@@ -15,8 +15,8 @@
     },
     {
       "name": "steps.json",
-      "sha256": "f5e39b2e8f3a621985566da6c34423e77a295cc066ae308daff6974dc826707d",
-      "bytes": 495199
+      "sha256": "6c27b0c3393bde53faaa60177faab31df88d6945106fd7c127cdb4e90b8f30a1",
+      "bytes": 495515
     },
     {
       "name": "glossary.json",
@@ -37,6 +37,11 @@
       "name": "photos.json",
       "sha256": "672b5ddba899d88c7a59f684f075a1d718b48fdb8558c2c59257f6ec718a177a",
       "bytes": 10827
+    },
+    {
+      "name": "rolodex.json",
+      "sha256": "24555cc89a9092320e6952a369432c69bdc2615cde20c2dd64dda4281f024d7e",
+      "bytes": 79808
     },
     {
       "name": "faq.json",
